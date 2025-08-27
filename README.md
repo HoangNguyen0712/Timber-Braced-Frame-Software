@@ -4,7 +4,7 @@ This software is develeloped for Capacity-Based Disign of TIMBER BRACED FRAMES
 
 # Developers
 
-ARTS Group at University of Alberta.
+ARTS Group at University of Alberta, Canada
 
 # Reference
 
