@@ -1,6 +1,6 @@
 # Software introduction
 
-This software is develeloped for Capacity-Based Disign of TIMBER BRACED FRAMES
+This software is develeloped for Capacity-Based Design of TIMBER BRACED FRAMES
 
 # Developers
 
